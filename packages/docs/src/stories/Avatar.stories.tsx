@@ -3,6 +3,7 @@ import { Avatar, AvatarProps, Text } from '@ignite-ui/react'
 
 export default {
   title: 'Data display/Avatar',
+  tags: ['autodocs'],
   component: Avatar,
   args: {
     src: 'https://github.com/felipeevalerio.png',
