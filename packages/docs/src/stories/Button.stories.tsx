@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ButtonProps } from '@felipe-ignite-design-system/react'
+import { Button, ButtonProps } from '@felipe-ignite-ui-system/react'
 
 export default {
   title: 'Form/Button',

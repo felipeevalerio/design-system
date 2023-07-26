@@ -1,5 +1,5 @@
 {
-  "name": "@felipe-ignite-design-system/tokens",
+  "name": "@felipe-ignite-ui-system/tokens",
   "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "tsup": "^7.1.0",
     "typescript": "^5.1.6",
-    "@felipe-ignite-design-system/ts-config": "*",
-    "@felipe-ignite-design-system/eslint-config": "*"
+    "@felipe-ignite-ui-system/ts-config": "*",
+    "@felipe-ignite-ui-system/eslint-config": "*"
   }
 }

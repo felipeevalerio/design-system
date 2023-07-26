@@ -1,6 +1,7 @@
 {
-  "name": "@felipe-ignite-design-system/docs",
+  "name": "@felipe-ignite-ui-system/docs",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,10 +31,10 @@
     "vite": "^4.4.4"
   },
   "dependencies": {
-    "@felipe-ignite-design-system/eslint-config": "*",
-    "@felipe-ignite-design-system/react": "*",
-    "@felipe-ignite-design-system/tokens": "*",
-    "@felipe-ignite-design-system/ts-config": "*",
+    "@felipe-ignite-ui-system/eslint-config": "*",
+    "@felipe-ignite-ui-system/react": "*",
+    "@felipe-ignite-ui-system/tokens": "*",
+    "@felipe-ignite-ui-system/ts-config": "*",
     "polished": "^4.2.2"
   }
 }
