@@ -5,7 +5,14 @@ export default {
   title: 'Form/Text Area',
   component: TextArea,
   tags: ['autodocs'],
-  args: {},
+  args: {
+    disabled: false,
+  },
+  argTypes: {
+    disabled: {
+      type: 'boolean',
+    },
+  },
   decorators: [
     (Story) => {
       return (

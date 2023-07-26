@@ -16,4 +16,10 @@ const preview = {
   },
 };
 
+export const parameters = {
+  darkMode: {
+    current: 'dark'
+  }
+}
+
 export default preview;

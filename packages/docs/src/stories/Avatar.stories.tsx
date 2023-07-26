@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/felipeevalerio.png',
     alt: 'Felipe Valério',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
